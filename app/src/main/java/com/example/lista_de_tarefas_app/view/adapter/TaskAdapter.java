@@ -1,4 +1,4 @@
-package com.example.lista_de_tarefas_app.adapter;
+package com.example.lista_de_tarefas_app.view.adapter;
 
 import android.os.Build;
 import android.view.LayoutInflater;
