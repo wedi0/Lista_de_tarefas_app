@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lista_de_tarefas_app</string>
+    <string name="tasks">Lista de Tarefas\n</string>
+    <string name="newTesk">Nova Tarefa\n</string>
+    <string name="save">Salvar</string>
+    <string name="title">Default\n</string>
 </resources>
